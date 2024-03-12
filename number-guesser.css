@@ -1,0 +1,31 @@
+.js-number-guess {
+  color: red;
+  font-size: 18px;
+  font-weight: bold;
+}
+.ok-button-js {
+  padding: 10px 20px;
+  background-color: rgb(112, 112, 235);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+  margin-left: 8px;
+}
+.js-number-guess-quest-input {
+  padding: 10px 20px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: rgb(140, 139, 139);
+  border-width: 1px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+.ok-button-js:hover {
+  background-color: rgb(73, 73, 203);
+  cursor: pointer;
+  transition: 0.3s;
+}
+.ok-button-js:active {
+  background-color: blue;
+  transition: 0.1s;
+}
